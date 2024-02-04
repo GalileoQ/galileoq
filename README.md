@@ -57,15 +57,21 @@ Estudiante de ingeniería de sistemas en el último año de mi carrera. Además,
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+## Acerca de mí
+
+- 🔭 Actualmente estoy trabajando en completar mi último año de Ingeniería de Sistemas y en profundizar mis conocimientos en Ciberseguridad.
+
+- 🌱 Estoy aprendiendo constantemente sobre análisis de vulnerabilidades, pentesting y técnicas avanzadas de protección contra ataques cibernéticos.
+
+- 👯 Estoy buscando colaborar en proyectos relacionados con el desarrollo de software seguro y la ciberseguridad.
+
+- 🤔 Estoy buscando colaborar en el desarrollo y la implementación de medidas avanzadas de seguridad en redes y sistemas.
+
+- ⚡ Dato curioso: En mi tiempo libre, soy un entusiasta de los videojuegos, ademas me apasiona explorar el fascinante mundo de la ciencia y la física cuántica, el universos, las estrellas y los fenómenos cósmicos. Siempre estoy buscando conexiones entre la tecnología y los conceptos científicos para ampliar mi comprensión del vasto universo que nos rodea.
+
+- 💬 Pregúntame sobre Ingeniería de Sistemas, desarrollo de software, ciberseguridad o cualquier tema relacionado con tecnologías de la información.
+
+- 📫 Puedes contactarme a través de mi correo electrónico: galileoquevedo@gmail.com.
+
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
