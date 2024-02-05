@@ -73,8 +73,7 @@ Estudiante de ingeniería de sistemas en el último año de mi carrera. Además,
 - 💬 Pregúntame sobre Ingeniería de Sistemas, desarrollo de software, ciberseguridad o cualquier tema relacionado con tecnologías de la información.
 
 - 📫 Puedes contactarme a través de mi correo electrónico: galileoquevedo@gmail.com.
-1
-<script src="https://tryhackme.com/badge/2169500"></script>
-2
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/galileoquevedo.png" alt="TryHackMe">
+
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
