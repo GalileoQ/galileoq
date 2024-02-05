@@ -11,7 +11,7 @@ Estudiante de ingeniería de sistemas en el último año de mi carrera. Además,
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GalileoQ&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Galileo Muñoz github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GalileoQ&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="GalileoQ github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalileoQ&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
