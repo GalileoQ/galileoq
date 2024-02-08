@@ -74,6 +74,6 @@ Estudiante de ingeniería de sistemas en el último año de mi carrera. Además,
 
 - 📫 Puedes contactarme a través de mi correo electrónico: galileoquevedo@gmail.com.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/galileoquevedo.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/galileoquevedo.png" alt="TryHackMe"> [![Hack The Box](https://www.hackthebox.eu/badge/image/1598457)](https://app.hackthebox.com/profile/1598457)
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
