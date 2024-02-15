@@ -56,7 +56,7 @@ Estudiante de ingeniería de sistemas en el último año de mi carrera. Además,
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">   
-<img src="" width="48" title="">
+<!-- <img src="" width="48" title="">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow">  
 <p/>
 
