@@ -22,6 +22,10 @@ Estudiante de ingeniería de sistemas en el último año de mi carrera. Además,
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalileoQ&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=galileoq&theme=github_dark" alt="galileoq" />
+</div>
+
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!-- Redes -->
