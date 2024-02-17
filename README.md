@@ -65,6 +65,7 @@ Estudiante de ingeniería de sistemas en el último año de mi carrera. Además,
 <!-- Pentestin Tools -->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Pentestin+Tools)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=149414&size=35&center=true&vCenter=true&width=1000&lines=soolT+gnitsetneP)
 <br><br>
 <img src="https://gitlab.com/uploads/-/system/project/avatar/40090554/kali-burpsuite.png" alt="Burpsuite" width="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/506px-Parrot_Logo.png" alt="Parrot" width="50" />
