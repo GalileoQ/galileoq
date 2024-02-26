@@ -1,5 +1,5 @@
 ### Hi there 👋
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola+Hackers👋;Welcome!)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Junior+Penetration+Tester👋)
 ¡Hola! Soy Galileo Muñoz.
 Estudiante de ingeniería de sistemas en el último año de mi carrera. Además, me apasiona la ciberseguridad y estoy en camino de convertirme en un Pentester. Actualmente, me estoy preparando para la certificación eJPTv2. 🚀
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
