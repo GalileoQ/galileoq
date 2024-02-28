@@ -31,16 +31,37 @@ Estudiante de ingeniería de sistemas en el último año de mi carrera. Además,
 <!-- Redes -->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/👽" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
-    <a href="https://galileoq.github.io/" target="_blank"><img src="https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white" alt="Web" /></a>
-</p>
 
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Sociales)
+                  
+<p align="center">
+  <a href="https://discord.com/users/Gamuke" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.github.com/Galileoq" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/galileoq" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/galileo-mu%C3%B1oz-ba3559273/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.x.com/GalileoQ" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.youtube.com/@GalileoMQ" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.twitch.tv/galieloq" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+  </a>
+</p>
 
 <!-- Icons -->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Habilidades)
 
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
@@ -64,7 +85,7 @@ Estudiante de ingeniería de sistemas en el último año de mi carrera. Además,
 
 <!-- Pentestin Tools -->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Pentestin+Tools)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=149414&size=35&center=true&vCenter=true&width=1000&lines=Pentestin+Tools)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=149414&size=35&center=true&vCenter=true&width=1000&lines=soolT+gnitsetneP)
 <br><br>
 <img src="https://gitlab.com/uploads/-/system/project/avatar/40090554/kali-burpsuite.png" alt="Burpsuite" width="50" />
